@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "evKH5SpouYFl8E7NiQJrxVJvCicxlrIFPw9+xSjdw18jlMS1EQNrkqdxEmmiYn3n68T7QDhM4SYOZFmEva0FTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel Vruck\\source\\repos\\Projetos\\WebCQRS_MeditR\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Vruck\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Vruck\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel Vruck\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Vruck\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
